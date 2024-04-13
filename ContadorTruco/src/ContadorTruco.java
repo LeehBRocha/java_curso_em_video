@@ -20,12 +20,12 @@ public class ContadorTruco{
         int cont = 0;
 
         while (jogada == 0){
-            System.out.println("\n====================================");
+            System.out.println("\n===========================================");
             System.out.println("TABELA DE PONTOS");
             System.out.println(primeiro+" - "+pont01+ " pontos");
             System.out.println(segundo+" - "+pont02+ " pontos");
             System.out.println("Rodada atual: "+cont);
-            System.out.println("====================================");
+            System.out.println("=============================================");
             System.out.println("\nQuanto vale essa rodada? ");
             System.out.println("1 - um ponto");
             System.out.println("2 - tres pontos");
